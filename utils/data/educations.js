@@ -1,20 +1,20 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "B-TECH in Computer Science and Engineering",
+    duration: "2023 - Present",
+    institution: "Biju Patnaik University of Tecnology, Rourkela",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Higher Secondary School",
+    duration: "2021 - 2023",
+    institution: "Binayak Acharya College, Brahmapur",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Secondary School",
+    duration: "2019 - 2021",
+    institution: "Govt. High School, R.Udayagiri",
   }
 ]
