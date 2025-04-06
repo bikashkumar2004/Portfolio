@@ -7,7 +7,6 @@ export const personalData = {
   phone: '+91 8895140540',
   address: 'Rourkela, Odisha, India',
   github: 'https://github.com/bikashkumar2004',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
   linkedIn: 'https://www.linkedin.com/in/bikash-kumar-choudhury',
   twitter: 'https://x.com/bikash569911',
   instagram: 'https://www.instagram.com/_shiro_kage__/?__pwa=1',
